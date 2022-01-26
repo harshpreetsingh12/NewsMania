@@ -1,0 +1,31 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "DeSantis' office says salaries of officials who require masks for students may be withheld",
+            "description": "The office of Florida Gov. Ron DeSantis said the state board of education could withhold salaries from school superintendents and others who require masks for all.",
+            "url": "https://www.nbcnews.com/news/us-news/salaries-florida-school-superintendents-who-impose-mask-rules-risk-desantis-n1276387",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3476544/210520-ron-desantis-jm-2326.jpg",
+            "publishedAt": "2021-08-10T02:09:00Z",
+            "content": "Florida school superintendents who require masks for students without giving them a way to opt out could have their salaries withheld, Florida Gov. Ron DeSantis' office said Monday\r\nDeSantis last wee… [+3631 chars]"
+        }
+{
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "SpaceX Funded for On-Earth Rocket Cargo | NextBigFuture.com",
+            "description": "SpaceX a $102 million five-year US Air Force contract to demonstrate delivering cargo anywhere on earth (point to point) in an hour. The under one hour",
+            "url": "https://www.nextbigfuture.com/2022/01/174435.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/06/superheavystarshipsea-819x1024.jpeg",
+            "publishedAt": "2022-01-22T16:53:09Z",
+            "content": "SpaceX a $102 million five-year US Air Force contract to demonstrate delivering cargo anywhere on earth (point to point) in an hour. The under one hour delivery is not specified in the contract but u… [+2136 chars]"
+        },
+        
